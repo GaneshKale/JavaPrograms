@@ -1,7 +1,5 @@
 package student;
 
-import student.StudenttoSting;
-
 public class StudenttoStringApp {
     public static void main(String[] a){
         StudenttoSting st=new StudenttoSting();
